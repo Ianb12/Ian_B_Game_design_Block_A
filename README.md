@@ -1,2 +1,2 @@
-# Game_design_Block_A
+# Ian_B_Game_design_Block_A
 This is for my game design projects
